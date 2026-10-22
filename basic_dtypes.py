@@ -19,4 +19,4 @@ print(type(x))
 
 #Casting
 a = int(1.5) #casting float to int
-print(a)
+print(float(a))
