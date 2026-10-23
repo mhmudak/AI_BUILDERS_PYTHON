@@ -1,3 +1,6 @@
+# ordered, changeable, allows duplicate values
+# append, remove, pop, clear, extend, del, range
+
 mylist = [1,2,3,4,4]
 print(type(mylist))
 print(mylist[0])
